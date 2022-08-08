@@ -1,0 +1,23 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shantaliah-filipo/test-npm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shantaliah-filipo/test-npm/issues"
+  },
+  "homepage": "https://github.com/shantaliah-filipo/test-npm#readme",
+  "dependencies": {
+    "sax": "^1.2.4"
+  }
+}
